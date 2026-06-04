@@ -1,3 +1,7 @@
 streamlit
-matplotlib
+pandas
+numpy
 scikit-learn
+xgboost
+matplotlib
+scikit-optimize
